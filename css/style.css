@@ -64,7 +64,7 @@ body{
     opacity: 0.1;
 }
 
-.container .box .name{
+.container .box .nome{
     position: absolute;
     top: 0;
     left: 0;
@@ -78,12 +78,12 @@ body{
     z-index: 10;
 }
 
-.container .box:hover .name{
+.container .box:hover .nome{
     top: 40px;
     opacity: 1;
 }
 
-.container .box .buy{
+.container .box .comprar{
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -99,12 +99,12 @@ body{
     z-index: 10;
 }
 
-.container .box:hover .buy{
+.container .box:hover .comprar{
     bottom: 30px;
     opacity: 1;
 }
 
-.container .box .circle{
+.container .box .circulo{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -134,17 +134,17 @@ body{
     transform: translate3d(-50%,-50%,120px) rotate(-15deg) scaleX(-1);
 }
 
-.container .box:nth-child(1) .circle,
-.container .box:nth-child(1) .buy{
+.container .box:nth-child(1) .circulo,
+.container .box:nth-child(1) .comprar{
     background: #9CC027; 
 }
 
-.container .box:nth-child(2) .circle,
-.container .box:nth-child(2) .buy{
+.container .box:nth-child(2) .circulo,
+.container .box:nth-child(2) .comprar{
     background: #FC4130;
 }
 
-.container .box:nth-child(3) .circle,
-.container .box:nth-child(3) .buy{
+.container .box:nth-child(3) .circulo,
+.container .box:nth-child(3) .comprar{
     background: #0098A5;
 }
