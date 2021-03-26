@@ -1,3 +1,5 @@
+![capagit](https://user-images.githubusercontent.com/67242974/112635878-1c994500-8e1b-11eb-94f0-c017b159c160.jpg)
+
 # Projeto E-commerce Cards Effect.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Cesar4ugusto)](https://github.com/Cesar4ugusto)
@@ -20,5 +22,7 @@ Para baixar está biblioteca siga os passos em [vanilla-tilt.js](https://micku7z
 O download das imagens pode ser feito no site [pngimg.com](http://pngimg.com/search/?page=2&search=nike)
 
 ### Licença
+
+As imagens estão sob proteção da marca.
 
 Todos os ativos e código são de domínio público, a menos que especificado de outra forma.
